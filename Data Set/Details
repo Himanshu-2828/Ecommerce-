@@ -1,0 +1,1501 @@
+Order ID,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
+Order ID,1096,658,7,Electronics,Electronic Games,COD
+Order ID,5729,64,14,Furniture,Chairs,EMI
+Order ID,2927,146,8,Furniture,Bookcases,EMI
+Order ID,2847,712,8,Electronics,Printers,Credit Card
+Order ID,2617,1151,4,Electronics,Phones,Credit Card
+Order ID,2244,247,4,Clothing,Trousers,Credit Card
+Order ID,275,-275,4,Clothing,Saree,COD
+Order ID,387,-213,5,Clothing,Saree,UPI
+Order ID,50,-44,2,Clothing,Hankerchief,UPI
+Order ID,135,-54,5,Clothing,Kurti,COD
+Order ID,231,-190,9,Clothing,Hankerchief,COD
+Order ID,2125,-234,6,Electronics,Printers,EMI
+Order ID,3873,-891,6,Electronics,Phones,Credit Card
+Order ID,729,-492,5,Furniture,Bookcases,UPI
+Order ID,2188,1050,5,Furniture,Bookcases,Credit Card
+Order ID,6,-3,1,Clothing,Hankerchief,UPI
+Order ID,1854,433,5,Furniture,Bookcases,Credit Card
+Order ID,6,1,1,Clothing,Kurti,UPI
+Order ID,2093,721,5,Furniture,Chairs,Credit Card
+Order ID,7,-1,2,Clothing,Skirt,UPI
+Order ID,1622,-624,5,Furniture,Tables,Credit Card
+Order ID,1622,95,5,Electronics,Printers,Credit Card
+Order ID,373,254,6,Electronics,Printers,UPI
+Order ID,82,-33,4,Clothing,Kurti,COD
+Order ID,8,2,2,Clothing,Skirt,UPI
+Order ID,1954,782,3,Electronics,Phones,Credit Card
+Order ID,1543,370,8,Electronics,Printers,Credit Card
+Order ID,1506,-266,6,Electronics,Printers,Credit Card
+Order ID,1829,-56,6,Furniture,Tables,Credit Card
+Order ID,9,-1,3,Clothing,Skirt,UPI
+Order ID,1461,202,5,Furniture,Tables,EMI
+Order ID,391,113,8,Clothing,Stole,COD
+Order ID,1824,1303,8,Electronics,Phones,Credit Card
+Order ID,16,-15,4,Clothing,Hankerchief,UPI
+Order ID,1745,122,2,Furniture,Tables,Credit Card
+Order ID,663,-212,5,Electronics,Printers,UPI
+Order ID,10,-1,1,Clothing,Leggings,UPI
+Order ID,1630,802,5,Furniture,Tables,EMI
+Order ID,12,0,2,Clothing,Hankerchief,UPI
+Order ID,12,-7,2,Clothing,Leggings,UPI
+Order ID,1709,564,3,Clothing,Trousers,Credit Card
+Order ID,12,3,1,Clothing,Stole,UPI
+Order ID,1625,-77,3,Electronics,Phones,EMI
+Order ID,13,5,2,Clothing,Hankerchief,UPI
+Order ID,1361,980,3,Furniture,Tables,COD
+Order ID,1622,-448,3,Electronics,Phones,EMI
+Order ID,1547,340,6,Electronics,Accessories,EMI
+Order ID,1657,460,4,Furniture,Chairs,Credit Card
+Order ID,1603,0,9,Clothing,Saree,Credit Card
+Order ID,1549,-439,4,Electronics,Phones,Credit Card
+Order ID,1183,106,4,Electronics,Printers,EMI
+Order ID,74,-123,8,Clothing,Skirt,UPI
+Order ID,1499,239,13,Clothing,Saree,Credit Card
+Order ID,1120,199,6,Clothing,Saree,EMI
+Order ID,15,-2,1,Clothing,T-shirt,Debit Card
+Order ID,1487,624,3,Clothing,Trousers,Credit Card
+Order ID,1118,206,2,Furniture,Tables,Credit Card
+Order ID,11,-5,2,Clothing,Hankerchief,COD
+Order ID,15,4,1,Clothing,Hankerchief,Debit Card
+Order ID,1364,1864,5,Furniture,Tables,Credit Card
+Order ID,1337,147,7,Electronics,Printers,Credit Card
+Order ID,15,2,1,Clothing,Leggings,Debit Card
+Order ID,322,-193,5,Electronics,Printers,UPI
+Order ID,1316,527,7,Electronics,Electronic Games,Credit Card
+Order ID,1314,342,3,Furniture,Bookcases,Credit Card
+Order ID,17,7,3,Clothing,Hankerchief,Debit Card
+Order ID,17,2,2,Clothing,Skirt,Debit Card
+Order ID,17,-12,5,Clothing,Skirt,Debit Card
+Order ID,1308,536,3,Furniture,Bookcases,Credit Card
+Order ID,1076,-38,4,Electronics,Printers,Credit Card
+Order ID,1301,573,5,Electronics,Accessories,Credit Card
+Order ID,1300,-16,8,Electronics,Printers,Credit Card
+Order ID,11,-2,4,Clothing,Hankerchief,COD
+Order ID,1298,65,9,Electronics,Printers,EMI
+Order ID,304,97,6,Clothing,Stole,UPI
+Order ID,1055,264,4,Electronics,Printers,EMI
+Order ID,17,-13,4,Clothing,Skirt,Debit Card
+Order ID,147,73,3,Clothing,Stole,COD
+Order ID,965,-68,3,Electronics,Printers,COD
+Order ID,12,-2,3,Clothing,Hankerchief,COD
+Order ID,14,-2,3,Clothing,Hankerchief,UPI
+Order ID,934,-916,7,Electronics,Electronic Games,COD
+Order ID,929,-93,9,Clothing,Saree,COD
+Order ID,18,3,2,Clothing,Hankerchief,Debit Card
+Order ID,916,192,11,Electronics,Phones,COD
+Order ID,76,-72,9,Clothing,Hankerchief,COD
+Order ID,869,67,4,Furniture,Tables,COD
+Order ID,112,24,3,Clothing,Kurti,COD
+Order ID,39,16,6,Clothing,Skirt,UPI
+Order ID,857,-274,2,Furniture,Tables,COD
+Order ID,828,230,2,Furniture,Chairs,COD
+Order ID,1279,-640,8,Electronics,Printers,EMI
+Order ID,1250,486,7,Clothing,Saree,EMI
+Order ID,823,-18,7,Furniture,Chairs,COD
+Order ID,1157,-13,9,Furniture,Bookcases,Credit Card
+Order ID,126,-63,3,Electronics,Accessories,UPI
+Order ID,1145,-706,3,Electronics,Phones,Credit Card
+Order ID,774,170,3,Electronics,Accessories,COD
+Order ID,24,-1,2,Clothing,Hankerchief,COD
+Order ID,774,170,3,Electronics,Accessories,COD
+Order ID,93,-1,2,Clothing,Hankerchief,COD
+Order ID,765,-36,3,Electronics,Electronic Games,COD
+Order ID,762,101,6,Electronics,Printers,COD
+Order ID,761,266,9,Electronics,Electronic Games,COD
+Order ID,96,-48,5,Clothing,Leggings,UPI
+Order ID,1137,-14,7,Electronics,Printers,EMI
+Order ID,18,8,2,Clothing,Hankerchief,Debit Card
+Order ID,749,-307,7,Furniture,Furnishings,COD
+Order ID,1120,199,6,Clothing,Saree,EMI
+Order ID,744,119,6,Electronics,Printers,COD
+Order ID,14,0,4,Clothing,Hankerchief,UPI
+Order ID,19,8,2,Clothing,Hankerchief,Debit Card
+Order ID,512,-225,5,Clothing,Saree,COD
+Order ID,742,198,2,Furniture,Bookcases,COD
+Order ID,44,-40,3,Clothing,Stole,COD
+Order ID,1061,-36,8,Furniture,Bookcases,EMI
+Order ID,19,-2,2,Clothing,Leggings,Debit Card
+Order ID,17,0,1,Clothing,Hankerchief,COD
+Order ID,741,267,5,Furniture,Bookcases,COD
+Order ID,735,-235,6,Electronics,Printers,COD
+Order ID,19,-1,1,Clothing,Shirt,Debit Card
+Order ID,1021,-48,4,Electronics,Electronic Games,EMI
+Order ID,556,-209,7,Clothing,Saree,COD
+Order ID,63,-17,6,Clothing,Leggings,COD
+Order ID,734,248,2,Furniture,Chairs,COD
+Order ID,933,166,5,Clothing,Saree,Credit Card
+Order ID,20,-9,6,Clothing,Hankerchief,Debit Card
+Order ID,877,395,2,Furniture,Bookcases,Credit Card
+Order ID,719,303,6,Furniture,Chairs,COD
+Order ID,12,1,2,Clothing,Hankerchief,COD
+Order ID,714,56,4,Clothing,Saree,COD
+Order ID,50,-15,4,Clothing,Leggings,COD
+Order ID,709,-100,5,Electronics,Phones,COD
+Order ID,21,-12,3,Clothing,Hankerchief,Debit Card
+Order ID,693,254,6,Clothing,Saree,COD
+Order ID,24,1,4,Clothing,Hankerchief,COD
+Order ID,24,1,2,Clothing,Hankerchief,UPI
+Order ID,24,1,2,Clothing,Hankerchief,COD
+Order ID,21,10,1,Clothing,T-shirt,Debit Card
+Order ID,681,259,4,Furniture,Chairs,COD
+Order ID,674,-187,2,Furniture,Tables,COD
+Order ID,671,-309,5,Electronics,Electronic Games,COD
+Order ID,646,-213,3,Electronics,Electronic Games,COD
+Order ID,40,15,1,Clothing,Kurti,COD
+Order ID,24,-2,2,Clothing,T-shirt,COD
+Order ID,644,167,2,Electronics,Printers,COD
+Order ID,643,225,2,Electronics,Printers,COD
+Order ID,632,-316,6,Clothing,Saree,COD
+Order ID,632,316,6,Clothing,Saree,COD
+Order ID,610,208,3,Electronics,Printers,COD
+Order ID,78,-28,6,Clothing,Kurti,UPI
+Order ID,595,119,4,Furniture,Bookcases,COD
+Order ID,595,292,3,Clothing,Saree,COD
+Order ID,852,51,5,Furniture,Bookcases,Credit Card
+Order ID,594,89,3,Furniture,Bookcases,COD
+Order ID,585,175,13,Clothing,T-shirt,COD
+Order ID,582,262,5,Furniture,Furnishings,COD
+Order ID,845,84,7,Clothing,Saree,Credit Card
+Order ID,829,19,4,Electronics,Printers,Credit Card
+Order ID,561,212,3,Clothing,Saree,COD
+Order ID,771,-424,2,Electronics,Phones,Credit Card
+Order ID,765,8,6,Clothing,Saree,EMI
+Order ID,31,2,2,Clothing,Hankerchief,COD
+Order ID,557,-111,2,Electronics,Electronic Games,COD
+Order ID,757,371,2,Electronics,Printers,Credit Card
+Order ID,545,-73,11,Electronics,Phones,COD
+Order ID,1052,-82,3,Furniture,Bookcases,UPI
+Order ID,544,-152,3,Furniture,Bookcases,COD
+Order ID,22,9,2,Clothing,Leggings,Debit Card
+Order ID,757,371,2,Electronics,Printers,Credit Card
+Order ID,742,198,2,Furniture,Bookcases,Credit Card
+Order ID,537,107,3,Clothing,Saree,COD
+Order ID,536,91,1,Clothing,Trousers,COD
+Order ID,6,3,1,Clothing,Hankerchief,COD
+Order ID,523,204,7,Clothing,Trousers,COD
+Order ID,27,9,2,Clothing,T-shirt,UPI
+Order ID,516,392,8,Furniture,Chairs,COD
+Order ID,504,116,3,Furniture,Bookcases,COD
+Order ID,502,84,4,Electronics,Phones,COD
+Order ID,734,213,6,Electronics,Electronic Games,Credit Card
+Order ID,42,12,2,Clothing,Kurti,COD
+Order ID,29,11,4,Clothing,Skirt,COD
+Order ID,240,12,6,Clothing,Kurti,UPI
+Order ID,496,-79,2,Clothing,Trousers,COD
+Order ID,485,29,4,Electronics,Electronic Games,COD
+Order ID,31,-11,3,Clothing,Skirt,UPI
+Order ID,676,151,3,Electronics,Printers,Credit Card
+Order ID,23,8,2,Clothing,Hankerchief,Debit Card
+Order ID,13,3,2,Clothing,Hankerchief,COD
+Order ID,180,0,8,Clothing,Stole,COD
+Order ID,671,114,9,Electronics,Phones,Credit Card
+Order ID,22,11,3,Clothing,Kurti,COD
+Order ID,668,-31,3,Electronics,Printers,Credit Card
+Order ID,145,0,3,Clothing,Saree,UPI
+Order ID,24,8,2,Clothing,Skirt,Debit Card
+Order ID,476,0,3,Furniture,Chairs,COD
+Order ID,24,11,5,Clothing,Hankerchief,Debit Card
+Order ID,37,3,3,Clothing,Hankerchief,COD
+Order ID,152,50,6,Clothing,Stole,UPI
+Order ID,32,11,2,Clothing,Leggings,UPI
+Order ID,52,11,5,Clothing,Leggings,COD
+Order ID,24,11,3,Clothing,Hankerchief,Debit Card
+Order ID,473,42,4,Furniture,Chairs,COD
+Order ID,263,50,5,Clothing,Stole,COD
+Order ID,61,11,3,Clothing,Kurti,COD
+Order ID,469,-459,3,Electronics,Electronic Games,COD
+Order ID,1272,547,2,Electronics,Phones,COD
+Order ID,169,0,3,Electronics,Accessories,COD
+Order ID,25,11,3,Clothing,Leggings,Debit Card
+Order ID,457,-41,4,Clothing,Saree,COD
+Order ID,455,77,8,Electronics,Accessories,COD
+Order ID,25,2,2,Clothing,Hankerchief,Debit Card
+Order ID,450,-90,3,Electronics,Printers,COD
+Order ID,30,-35,1,Furniture,Chairs,COD
+Order ID,659,-37,2,Furniture,Bookcases,Credit Card
+Order ID,448,148,2,Electronics,Printers,COD
+Order ID,446,53,3,Electronics,Printers,COD
+Order ID,98,-45,2,Furniture,Chairs,UPI
+Order ID,443,11,1,Clothing,Saree,COD
+Order ID,427,-50,7,Electronics,Phones,COD
+Order ID,656,-36,2,Furniture,Bookcases,Credit Card
+Order ID,424,161,2,Clothing,Saree,COD
+Order ID,27,8,2,Clothing,T-shirt,Debit Card
+Order ID,424,-272,5,Electronics,Phones,COD
+Order ID,202,4,4,Clothing,Hankerchief,COD
+Order ID,1275,357,2,Electronics,Phones,UPI
+Order ID,418,70,7,Electronics,Phones,COD
+Order ID,417,49,3,Electronics,Electronic Games,COD
+Order ID,199,48,4,Clothing,Stole,UPI
+Order ID,385,-77,11,Furniture,Furnishings,UPI
+Order ID,414,199,3,Electronics,Phones,COD
+Order ID,97,-45,4,Clothing,Saree,COD
+Order ID,648,50,6,Electronics,Electronic Games,Credit Card
+Order ID,27,-25,2,Clothing,Shirt,Debit Card
+Order ID,27,12,1,Clothing,Stole,Debit Card
+Order ID,27,1,1,Clothing,Stole,UPI
+Order ID,413,-314,9,Furniture,Chairs,COD
+Order ID,53,2,4,Clothing,Hankerchief,COD
+Order ID,29,8,5,Clothing,Hankerchief,UPI
+Order ID,30,13,1,Clothing,T-shirt,UPI
+Order ID,412,412,6,Clothing,Saree,COD
+Order ID,646,-23,2,Electronics,Printers,Credit Card
+Order ID,30,-5,5,Clothing,Stole,UPI
+Order ID,618,27,4,Furniture,Bookcases,Credit Card
+Order ID,143,-124,5,Clothing,Saree,UPI
+Order ID,31,1,2,Clothing,Hankerchief,UPI
+Order ID,409,86,3,Clothing,Saree,COD
+Order ID,406,126,2,Clothing,Saree,COD
+Order ID,565,66,7,Clothing,Saree,Credit Card
+Order ID,85,2,6,Clothing,Stole,COD
+Order ID,561,118,5,Furniture,Bookcases,Credit Card
+Order ID,503,-56,2,Clothing,Trousers,COD
+Order ID,31,14,3,Clothing,Stole,UPI
+Order ID,398,111,8,Clothing,Hankerchief,COD
+Order ID,388,93,2,Furniture,Bookcases,COD
+Order ID,498,-116,4,Clothing,Saree,UPI
+Order ID,561,212,3,Clothing,Saree,Credit Card
+Order ID,61,3,4,Clothing,Hankerchief,COD
+Order ID,34,-22,4,Clothing,T-shirt,COD
+Order ID,32,6,3,Clothing,Shirt,UPI
+Order ID,623,-192,3,Furniture,Tables,UPI
+Order ID,520,151,3,Electronics,Phones,Credit Card
+Order ID,32,-16,6,Clothing,Saree,UPI
+Order ID,32,-5,5,Clothing,Hankerchief,UPI
+Order ID,510,234,6,Electronics,Electronic Games,EMI
+Order ID,382,68,3,Clothing,Saree,COD
+Order ID,33,13,3,Clothing,Leggings,UPI
+Order ID,381,-13,2,Clothing,Saree,COD
+Order ID,490,88,2,Electronics,Accessories,EMI
+Order ID,381,144,2,Clothing,Saree,COD
+Order ID,487,143,4,Electronics,Phones,EMI
+Order ID,366,84,3,Furniture,Bookcases,COD
+Order ID,33,-29,3,Clothing,Shirt,UPI
+Order ID,365,107,3,Electronics,Phones,COD
+Order ID,207,-100,2,Clothing,Saree,UPI
+Order ID,359,-338,5,Furniture,Bookcases,COD
+Order ID,351,-47,8,Electronics,Phones,COD
+Order ID,485,199,4,Clothing,Saree,EMI
+Order ID,37,-23,4,Clothing,Shirt,UPI
+Order ID,34,10,2,Clothing,T-shirt,Debit Card
+Order ID,346,108,3,Furniture,Chairs,COD
+Order ID,342,-103,4,Electronics,Electronic Games,COD
+Order ID,35,-8,2,Furniture,Furnishings,Debit Card
+Order ID,121,41,4,Clothing,Stole,UPI
+Order ID,336,57,2,Electronics,Phones,COD
+Order ID,336,71,3,Furniture,Bookcases,COD
+Order ID,27,4,1,Clothing,Hankerchief,COD
+Order ID,333,50,2,Electronics,Phones,COD
+Order ID,36,7,3,Clothing,Leggings,Debit Card
+Order ID,333,-15,3,Electronics,Phones,COD
+Order ID,327,114,4,Clothing,Trousers,COD
+Order ID,18,6,3,Clothing,Hankerchief,UPI
+Order ID,325,32,7,Clothing,T-shirt,COD
+Order ID,482,-6,7,Electronics,Electronic Games,EMI
+Order ID,465,-33,4,Electronics,Phones,EMI
+Order ID,40,-12,3,Clothing,Shirt,COD
+Order ID,107,36,6,Clothing,Stole,COD
+Order ID,312,-312,7,Furniture,Chairs,COD
+Order ID,451,25,3,Electronics,Phones,EMI
+Order ID,312,62,1,Electronics,Electronic Games,COD
+Order ID,311,72,2,Furniture,Bookcases,COD
+Order ID,11,5,2,Clothing,Hankerchief,UPI
+Order ID,37,-5,3,Clothing,T-shirt,Debit Card
+Order ID,444,-200,4,Electronics,Phones,EMI
+Order ID,434,26,11,Clothing,Shirt,Credit Card
+Order ID,299,0,6,Clothing,Stole,COD
+Order ID,37,17,3,Clothing,Hankerchief,Debit Card
+Order ID,299,113,2,Furniture,Bookcases,COD
+Order ID,298,74,2,Furniture,Bookcases,COD
+Order ID,94,7,7,Clothing,Leggings,UPI
+Order ID,296,225,11,Clothing,Saree,COD
+Order ID,37,17,3,Clothing,Hankerchief,Debit Card
+Order ID,291,93,2,Electronics,Printers,COD
+Order ID,327,-39,1,Electronics,Phones,COD
+Order ID,291,119,11,Clothing,Saree,COD
+Order ID,287,-66,6,Clothing,Kurti,COD
+Order ID,42,15,1,Electronics,Accessories,UPI
+Order ID,429,61,3,Electronics,Electronic Games,Credit Card
+Order ID,285,128,2,Electronics,Printers,COD
+Order ID,277,3,1,Electronics,Electronic Games,COD
+Order ID,274,-7,4,Electronics,Phones,COD
+Order ID,273,-87,4,Electronics,Phones,COD
+Order ID,269,91,1,Electronics,Electronic Games,COD
+Order ID,11,5,1,Clothing,Skirt,COD
+Order ID,39,2,2,Clothing,Saree,Debit Card
+Order ID,264,-26,3,Clothing,Trousers,COD
+Order ID,40,16,3,Clothing,Hankerchief,Debit Card
+Order ID,41,19,2,Clothing,T-shirt,Debit Card
+Order ID,253,-63,2,Clothing,Saree,UPI
+Order ID,406,97,7,Furniture,Chairs,Credit Card
+Order ID,32,7,3,Clothing,Hankerchief,COD
+Order ID,260,68,2,Electronics,Printers,COD
+Order ID,41,19,5,Clothing,Hankerchief,Debit Card
+Order ID,401,13,6,Furniture,Chairs,Credit Card
+Order ID,382,30,3,Clothing,Saree,Credit Card
+Order ID,867,251,5,Electronics,Phones,COD
+Order ID,43,0,3,Clothing,Saree,Debit Card
+Order ID,43,-43,7,Clothing,Stole,Debit Card
+Order ID,74,29,3,Clothing,Stole,COD
+Order ID,44,-26,3,Clothing,Hankerchief,Debit Card
+Order ID,259,-55,2,Furniture,Chairs,COD
+Order ID,257,23,5,Clothing,Hankerchief,COD
+Order ID,76,27,5,Clothing,Stole,COD
+Order ID,44,-32,3,Clothing,Stole,Debit Card
+Order ID,257,3,2,Clothing,Saree,COD
+Order ID,255,76,9,Clothing,Hankerchief,COD
+Order ID,44,14,3,Clothing,Hankerchief,Debit Card
+Order ID,45,-2,4,Clothing,Shirt,COD
+Order ID,44,-3,1,Clothing,Saree,Debit Card
+Order ID,382,119,2,Clothing,Saree,Credit Card
+Order ID,250,100,3,Clothing,Trousers,COD
+Order ID,45,-15,2,Furniture,Chairs,COD
+Order ID,246,61,2,Furniture,Bookcases,COD
+Order ID,50,25,5,Clothing,Stole,COD
+Order ID,246,98,5,Clothing,Hankerchief,COD
+Order ID,44,99,3,Clothing,Kurti,Debit Card
+Order ID,245,-78,3,Clothing,Saree,COD
+Order ID,245,30,2,Clothing,Saree,COD
+Order ID,376,0,7,Clothing,Stole,Credit Card
+Order ID,45,1,3,Clothing,T-shirt,Debit Card
+Order ID,45,-28,2,Clothing,Stole,Debit Card
+Order ID,244,-122,5,Furniture,Furnishings,COD
+Order ID,244,83,2,Furniture,Bookcases,COD
+Order ID,10,4,1,Clothing,Kurti,UPI
+Order ID,375,180,3,Furniture,Bookcases,Credit Card
+Order ID,46,14,5,Clothing,Skirt,Debit Card
+Order ID,49,-31,2,Clothing,Stole,UPI
+Order ID,47,-20,2,Clothing,Kurti,Debit Card
+Order ID,355,-114,7,Clothing,Stole,Credit Card
+Order ID,32,8,5,Clothing,Hankerchief,UPI
+Order ID,243,-14,2,Furniture,Chairs,COD
+Order ID,241,-77,4,Electronics,Electronic Games,COD
+Order ID,47,15,5,Clothing,Saree,Debit Card
+Order ID,50,-10,6,Clothing,Skirt,Debit Card
+Order ID,15,6,2,Clothing,Hankerchief,COD
+Order ID,148,24,3,Clothing,Stole,COD
+Order ID,299,-28,3,Electronics,Electronic Games,UPI
+Order ID,68,-30,1,Electronics,Phones,UPI
+Order ID,52,18,5,Clothing,Leggings,Debit Card
+Order ID,239,-162,5,Furniture,Chairs,COD
+Order ID,27,6,3,Clothing,Skirt,COD
+Order ID,238,20,2,Clothing,Saree,COD
+Order ID,48,16,3,Clothing,Shirt,COD
+Order ID,66,22,3,Clothing,Stole,UPI
+Order ID,53,24,1,Clothing,Hankerchief,Debit Card
+Order ID,233,-10,5,Electronics,Electronic Games,COD
+Order ID,53,-2,3,Clothing,Saree,Debit Card
+Order ID,54,8,4,Clothing,T-shirt,Debit Card
+Order ID,352,-345,5,Clothing,Saree,Credit Card
+Order ID,349,0,7,Clothing,Stole,Credit Card
+Order ID,341,-85,6,Clothing,Trousers,Credit Card
+Order ID,54,12,3,Clothing,Saree,Debit Card
+Order ID,57,7,2,Clothing,Shirt,UPI
+Order ID,340,20,7,Clothing,Shirt,Credit Card
+Order ID,227,48,5,Clothing,Stole,COD
+Order ID,330,81,1,Furniture,Bookcases,Credit Card
+Order ID,216,-38,6,Furniture,Furnishings,UPI
+Order ID,224,-143,3,Furniture,Chairs,COD
+Order ID,55,-33,2,Furniture,Chairs,Debit Card
+Order ID,49,21,1,Clothing,Stole,UPI
+Order ID,224,87,3,Clothing,Trousers,COD
+Order ID,223,27,2,Furniture,Bookcases,COD
+Order ID,324,39,8,Electronics,Accessories,Credit Card
+Order ID,56,18,2,Clothing,Hankerchief,Debit Card
+Order ID,223,62,7,Clothing,Shirt,COD
+Order ID,10,2,2,Clothing,Skirt,COD
+Order ID,57,6,5,Clothing,Leggings,Debit Card
+Order ID,322,-113,4,Clothing,Saree,Credit Card
+Order ID,219,4,2,Clothing,Saree,COD
+Order ID,103,21,7,Clothing,Stole,UPI
+Order ID,47,-27,4,Clothing,Saree,COD
+Order ID,219,0,1,Clothing,Saree,COD
+Order ID,57,-48,6,Clothing,Leggings,Debit Card
+Order ID,319,102,6,Electronics,Accessories,Credit Card
+Order ID,315,-8,3,Furniture,Chairs,Credit Card
+Order ID,314,-41,3,Electronics,Electronic Games,Credit Card
+Order ID,311,40,1,Electronics,Electronic Games,EMI
+Order ID,307,74,3,Electronics,Accessories,EMI
+Order ID,294,109,7,Electronics,Accessories,EMI
+Order ID,216,-83,3,Electronics,Electronic Games,COD
+Order ID,58,-42,2,Furniture,Chairs,Debit Card
+Order ID,48,20,4,Clothing,Stole,UPI
+Order ID,54,14,3,Clothing,T-shirt,UPI
+Order ID,216,50,4,Clothing,Stole,COD
+Order ID,215,-30,2,Clothing,Saree,COD
+Order ID,43,8,3,Clothing,Leggings,COD
+Order ID,136,-33,5,Clothing,Saree,COD
+Order ID,59,-30,3,Clothing,Leggings,Debit Card
+Order ID,213,4,14,Clothing,Shirt,COD
+Order ID,59,21,2,Clothing,Stole,Debit Card
+Order ID,55,3,3,Clothing,T-shirt,COD
+Order ID,294,62,9,Clothing,T-shirt,EMI
+Order ID,210,62,2,Electronics,Phones,COD
+Order ID,59,24,6,Clothing,Kurti,Debit Card
+Order ID,396,-31,9,Clothing,Saree,COD
+Order ID,284,45,2,Furniture,Bookcases,EMI
+Order ID,276,52,5,Clothing,Saree,EMI
+Order ID,23,2,2,Clothing,Skirt,UPI
+Order ID,209,-63,4,Electronics,Electronic Games,COD
+Order ID,50,-28,5,Furniture,Furnishings,COD
+Order ID,57,27,2,Clothing,Shirt,COD
+Order ID,276,-21,2,Electronics,Phones,EMI
+Order ID,268,6,2,Furniture,Bookcases,UPI
+Order ID,269,111,3,Clothing,Trousers,EMI
+Order ID,209,2,1,Clothing,Saree,COD
+Order ID,60,-12,4,Clothing,Hankerchief,Debit Card
+Order ID,269,-86,2,Electronics,Electronic Games,EMI
+Order ID,208,-25,2,Clothing,Saree,COD
+Order ID,27,2,2,Clothing,Leggings,UPI
+Order ID,206,-206,3,Clothing,Saree,COD
+Order ID,61,8,4,Clothing,Hankerchief,Debit Card
+Order ID,212,-24,2,Furniture,Chairs,COD
+Order ID,262,64,6,Clothing,Saree,EMI
+Order ID,204,276,3,Furniture,Bookcases,COD
+Order ID,59,-46,7,Clothing,T-shirt,UPI
+Order ID,199,-18,2,Clothing,Saree,COD
+Order ID,59,6,1,Electronics,Accessories,UPI
+Order ID,45,9,3,Clothing,Leggings,UPI
+Order ID,211,19,8,Clothing,Stole,COD
+Order ID,65,-16,2,Electronics,Phones,Debit Card
+Order ID,25,0,4,Clothing,Skirt,UPI
+Order ID,196,-7,5,Electronics,Phones,COD
+Order ID,261,13,6,Clothing,Shirt,Credit Card
+Order ID,195,-117,5,Electronics,Phones,COD
+Order ID,192,-146,3,Clothing,Saree,COD
+Order ID,189,87,7,Clothing,Stole,COD
+Order ID,32,2,2,Clothing,Kurti,UPI
+Order ID,188,13,7,Clothing,Shirt,COD
+Order ID,73,-25,3,Clothing,Saree,COD
+Order ID,259,47,5,Clothing,Hankerchief,Credit Card
+Order ID,187,-15,3,Clothing,Trousers,COD
+Order ID,26,11,2,Clothing,Hankerchief,UPI
+Order ID,185,-26,6,Furniture,Chairs,COD
+Order ID,248,8,2,Clothing,Saree,Credit Card
+Order ID,67,9,4,Clothing,Leggings,Debit Card
+Order ID,248,-70,3,Furniture,Chairs,Credit Card
+Order ID,246,61,2,Furniture,Bookcases,Credit Card
+Order ID,179,-25,5,Clothing,Kurti,COD
+Order ID,176,-28,5,Furniture,Furnishings,COD
+Order ID,176,-13,5,Furniture,Furnishings,COD
+Order ID,68,-62,2,Clothing,Trousers,Debit Card
+Order ID,176,37,6,Electronics,Accessories,COD
+Order ID,88,11,7,Clothing,Hankerchief,UPI
+Order ID,68,20,5,Clothing,Hankerchief,Debit Card
+Order ID,231,99,2,Electronics,Electronic Games,Credit Card
+Order ID,62,8,2,Clothing,T-shirt,UPI
+Order ID,175,77,3,Clothing,Saree,COD
+Order ID,71,4,5,Clothing,Leggings,Debit Card
+Order ID,174,-70,3,Electronics,Accessories,COD
+Order ID,173,69,3,Furniture,Chairs,COD
+Order ID,171,2,2,Electronics,Electronic Games,COD
+Order ID,268,-25,3,Clothing,Saree,COD
+Order ID,71,32,3,Clothing,Saree,Debit Card
+Order ID,29,10,4,Clothing,Hankerchief,UPI
+Order ID,65,17,2,Clothing,T-shirt,UPI
+Order ID,72,-46,7,Clothing,Kurti,Debit Card
+Order ID,168,-51,2,Furniture,Bookcases,COD
+Order ID,165,30,3,Clothing,Stole,COD
+Order ID,74,-59,2,Electronics,Accessories,Debit Card
+Order ID,89,17,2,Clothing,Stole,UPI
+Order ID,228,63,3,Electronics,Electronic Games,Credit Card
+Order ID,119,-24,4,Furniture,Furnishings,COD
+Order ID,75,-25,3,Clothing,Stole,UPI
+Order ID,67,20,4,Clothing,T-shirt,UPI
+Order ID,7,0,1,Clothing,Leggings,COD
+Order ID,222,35,5,Clothing,Saree,Credit Card
+Order ID,219,-9,4,Clothing,Saree,Credit Card
+Order ID,42,-23,2,Furniture,Furnishings,UPI
+Order ID,216,-135,3,Furniture,Chairs,Credit Card
+Order ID,47,-21,2,Electronics,Electronic Games,COD
+Order ID,68,-55,5,Electronics,Accessories,UPI
+Order ID,74,33,2,Clothing,Shirt,Debit Card
+Order ID,165,46,3,Furniture,Furnishings,COD
+Order ID,101,11,2,Clothing,Hankerchief,UPI
+Order ID,162,73,2,Electronics,Electronic Games,COD
+Order ID,20,-22,1,Furniture,Furnishings,UPI
+Order ID,162,55,3,Clothing,Stole,COD
+Order ID,229,-23,2,Clothing,Saree,UPI
+Order ID,27,0,2,Clothing,Leggings,COD
+Order ID,685,7,7,Clothing,Trousers,UPI
+Order ID,75,2,5,Clothing,Leggings,Debit Card
+Order ID,161,-229,8,Furniture,Furnishings,COD
+Order ID,71,19,3,Clothing,T-shirt,COD
+Order ID,211,-105,2,Clothing,Saree,Credit Card
+Order ID,79,5,6,Clothing,Hankerchief,Debit Card
+Order ID,32,-22,5,Clothing,Saree,UPI
+Order ID,161,40,3,Clothing,Stole,COD
+Order ID,159,4,1,Clothing,Saree,COD
+Order ID,210,-50,4,Clothing,Hankerchief,Credit Card
+Order ID,79,39,2,Clothing,Shirt,Debit Card
+Order ID,207,153,3,Clothing,Saree,Credit Card
+Order ID,36,0,4,Clothing,Kurti,COD
+Order ID,206,12,1,Electronics,Printers,Credit Card
+Order ID,46,0,4,Clothing,Leggings,COD
+Order ID,156,23,3,Clothing,Stole,COD
+Order ID,154,54,3,Clothing,Hankerchief,COD
+Order ID,36,15,3,Clothing,Stole,UPI
+Order ID,206,51,4,Clothing,Hankerchief,Credit Card
+Order ID,200,7,4,Electronics,Electronic Games,Credit Card
+Order ID,199,-1,1,Clothing,Saree,Credit Card
+Order ID,154,22,7,Clothing,T-shirt,COD
+Order ID,152,23,3,Furniture,Furnishings,COD
+Order ID,152,50,6,Clothing,Stole,COD
+Order ID,122,-21,3,Furniture,Furnishings,UPI
+Order ID,149,48,6,Clothing,Stole,COD
+Order ID,149,-87,4,Clothing,Saree,COD
+Order ID,197,20,4,Clothing,Kurti,Credit Card
+Order ID,76,-54,3,Electronics,Electronic Games,COD
+Order ID,221,-15,2,Electronics,Electronic Games,COD
+Order ID,79,32,3,Clothing,Saree,Debit Card
+Order ID,45,12,7,Clothing,Hankerchief,UPI
+Order ID,149,-1,1,Clothing,Saree,COD
+Order ID,80,22,3,Clothing,Stole,Debit Card
+Order ID,195,12,9,Clothing,Shirt,Credit Card
+Order ID,19,0,3,Clothing,Skirt,UPI
+Order ID,81,41,3,Clothing,Stole,Debit Card
+Order ID,83,34,5,Clothing,Shirt,Debit Card
+Order ID,149,17,4,Furniture,Furnishings,COD
+Order ID,193,46,1,Electronics,Printers,Credit Card
+Order ID,85,24,10,Clothing,Hankerchief,Debit Card
+Order ID,44,-17,5,Clothing,Saree,UPI
+Order ID,149,-40,2,Electronics,Phones,COD
+Order ID,26,0,2,Clothing,Kurti,COD
+Order ID,86,0,4,Clothing,T-shirt,Debit Card
+Order ID,86,22,2,Clothing,Saree,Debit Card
+Order ID,79,16,3,Clothing,T-shirt,COD
+Order ID,193,-275,3,Electronics,Phones,Credit Card
+Order ID,148,0,3,Clothing,Saree,COD
+Order ID,70,-14,2,Furniture,Furnishings,UPI
+Order ID,148,59,3,Clothing,Hankerchief,COD
+Order ID,190,19,9,Furniture,Furnishings,Credit Card
+Order ID,52,14,2,Clothing,Stole,COD
+Order ID,147,44,3,Clothing,Saree,COD
+Order ID,190,68,8,Clothing,T-shirt,Credit Card
+Order ID,80,-56,4,Electronics,Electronic Games,UPI
+Order ID,147,48,3,Clothing,Saree,COD
+Order ID,66,12,3,Clothing,Stole,COD
+Order ID,86,8,2,Clothing,Saree,Debit Card
+Order ID,88,19,2,Clothing,Shirt,Debit Card
+Order ID,188,-193,2,Electronics,Electronic Games,Credit Card
+Order ID,89,29,2,Clothing,Stole,UPI
+Order ID,146,19,5,Clothing,Stole,COD
+Order ID,143,32,1,Furniture,Bookcases,COD
+Order ID,25,-1,4,Clothing,Kurti,COD
+Order ID,30,12,3,Clothing,Skirt,UPI
+Order ID,140,-58,4,Furniture,Furnishings,COD
+Order ID,83,-48,1,Furniture,Bookcases,UPI
+Order ID,140,6,5,Clothing,Saree,COD
+Order ID,28,14,4,Clothing,Hankerchief,COD
+Order ID,139,14,3,Clothing,Stole,COD
+Order ID,30,14,3,Clothing,Hankerchief,UPI
+Order ID,89,36,3,Clothing,Shirt,UPI
+Order ID,187,30,4,Electronics,Accessories,Credit Card
+Order ID,139,21,3,Electronics,Accessories,COD
+Order ID,437,-14,2,Clothing,Saree,UPI
+Order ID,138,-3,5,Clothing,Saree,COD
+Order ID,85,13,2,Clothing,Shirt,UPI
+Order ID,83,12,3,Clothing,Stole,UPI
+Order ID,91,22,2,Clothing,Stole,UPI
+Order ID,137,5,5,Clothing,Shirt,COD
+Order ID,33,-12,7,Clothing,Saree,UPI
+Order ID,134,-34,2,Furniture,Chairs,COD
+Order ID,134,42,2,Furniture,Chairs,COD
+Order ID,133,-56,2,Furniture,Chairs,COD
+Order ID,93,-84,3,Clothing,Saree,UPI
+Order ID,86,-21,1,Electronics,Electronic Games,UPI
+Order ID,132,54,5,Clothing,Stole,COD
+Order ID,132,-10,3,Clothing,Saree,COD
+Order ID,132,-79,5,Furniture,Furnishings,COD
+Order ID,93,-65,4,Clothing,Stole,UPI
+Order ID,95,5,2,Clothing,Stole,UPI
+Order ID,97,12,2,Clothing,Hankerchief,UPI
+Order ID,131,-154,8,Furniture,Furnishings,COD
+Order ID,97,29,2,Clothing,Hankerchief,UPI
+Order ID,128,4,3,Clothing,Saree,COD
+Order ID,186,241,9,Clothing,Shirt,Credit Card
+Order ID,128,47,4,Clothing,Hankerchief,COD
+Order ID,185,48,4,Clothing,Stole,Credit Card
+Order ID,29,10,2,Clothing,Stole,COD
+Order ID,127,29,3,Furniture,Furnishings,COD
+Order ID,97,36,7,Clothing,Hankerchief,UPI
+Order ID,125,0,3,Electronics,Accessories,COD
+Order ID,299,-8,2,Clothing,Saree,COD
+Order ID,124,54,5,Clothing,T-shirt,COD
+Order ID,90,17,3,Clothing,Shirt,COD
+Order ID,122,11,4,Clothing,Hankerchief,COD
+Order ID,122,-66,9,Electronics,Accessories,COD
+Order ID,90,30,2,Furniture,Chairs,UPI
+Order ID,182,-11,3,Furniture,Bookcases,Credit Card
+Order ID,122,59,7,Furniture,Furnishings,COD
+Order ID,121,19,4,Clothing,Stole,COD
+Order ID,120,1,1,Furniture,Chairs,COD
+Order ID,120,23,5,Clothing,Stole,COD
+Order ID,34,-11,5,Clothing,T-shirt,COD
+Order ID,117,17,6,Clothing,Kurti,COD
+Order ID,38,9,2,Clothing,Stole,COD
+Order ID,117,-6,3,Electronics,Phones,COD
+Order ID,180,54,4,Clothing,T-shirt,Credit Card
+Order ID,99,-5,1,Clothing,Saree,UPI
+Order ID,172,-103,3,Furniture,Chairs,EMI
+Order ID,116,16,4,Clothing,Stole,COD
+Order ID,116,-4,1,Clothing,Saree,COD
+Order ID,171,68,7,Clothing,Stole,EMI
+Order ID,46,14,5,Clothing,Skirt,COD
+Order ID,115,-39,3,Clothing,Trousers,COD
+Order ID,100,7,2,Clothing,T-shirt,UPI
+Order ID,44,8,2,Clothing,Stole,COD
+Order ID,139,14,3,Clothing,Kurti,COD
+Order ID,171,-140,2,Furniture,Bookcases,EMI
+Order ID,100,12,2,Clothing,T-shirt,UPI
+Order ID,115,25,6,Clothing,Stole,COD
+Order ID,168,-9,3,Clothing,Saree,COD
+Order ID,115,47,2,Electronics,Accessories,COD
+Order ID,168,-111,2,Electronics,Phones,EMI
+Order ID,31,-7,5,Clothing,Skirt,UPI
+Order ID,114,41,6,Furniture,Furnishings,COD
+Order ID,111,9,4,Clothing,Stole,COD
+Order ID,11,-8,2,Clothing,Skirt,UPI
+Order ID,110,35,1,Furniture,Furnishings,COD
+Order ID,59,15,2,Clothing,T-shirt,UPI
+Order ID,166,27,2,Electronics,Accessories,EMI
+Order ID,109,-6,6,Clothing,Saree,COD
+Order ID,34,-6,4,Clothing,Leggings,COD
+Order ID,109,40,1,Furniture,Furnishings,COD
+Order ID,108,22,3,Electronics,Accessories,COD
+Order ID,103,50,2,Furniture,Furnishings,UPI
+Order ID,10,-8,2,Clothing,Skirt,COD
+Order ID,90,17,3,Clothing,Hankerchief,COD
+Order ID,105,46,2,Clothing,Stole,UPI
+Order ID,105,20,2,Clothing,Stole,Debit Card
+Order ID,22,-6,1,Furniture,Furnishings,COD
+Order ID,105,-33,5,Clothing,Kurti,COD
+Order ID,105,25,2,Clothing,Hankerchief,EMI
+Order ID,25,-7,5,Clothing,Saree,UPI
+Order ID,104,2,2,Furniture,Furnishings,COD
+Order ID,16,5,1,Clothing,Stole,UPI
+Order ID,64,-7,3,Clothing,Saree,COD
+Order ID,38,-6,2,Furniture,Furnishings,UPI
+Order ID,83,12,2,Furniture,Chairs,COD
+Order ID,103,36,2,Clothing,Hankerchief,COD
+Order ID,37,-6,1,Clothing,Saree,UPI
+Order ID,105,33,6,Clothing,Saree,EMI
+Order ID,78,-6,2,Furniture,Furnishings,UPI
+Order ID,102,-90,1,Clothing,Saree,COD
+Order ID,102,11,6,Clothing,T-shirt,COD
+Order ID,10,-8,1,Clothing,Kurti,UPI
+Order ID,101,18,9,Clothing,Skirt,COD
+Order ID,42,-6,4,Clothing,Saree,UPI
+Order ID,56,18,2,Clothing,Hankerchief,UPI
+Order ID,95,5,2,Clothing,Stole,COD
+Order ID,159,2,3,Furniture,Furnishings,EMI
+Order ID,158,69,3,Clothing,Stole,EMI
+Order ID,106,0,2,Electronics,Phones,EMI
+Order ID,101,16,4,Clothing,T-shirt,COD
+Order ID,107,37,3,Clothing,Shirt,COD
+Order ID,156,36,5,Clothing,T-shirt,EMI
+Order ID,108,-19,3,Electronics,Electronic Games,UPI
+Order ID,107,-54,4,Clothing,Stole,EMI
+Order ID,100,-58,4,Clothing,Hankerchief,COD
+Order ID,108,26,4,Clothing,Shirt,UPI
+Order ID,100,6,4,Clothing,Stole,COD
+Order ID,100,-23,1,Electronics,Phones,COD
+Order ID,43,17,2,Clothing,T-shirt,UPI
+Order ID,155,26,3,Clothing,Stole,EMI
+Order ID,151,9,3,Clothing,Hankerchief,EMI
+Order ID,151,29,5,Clothing,Hankerchief,EMI
+Order ID,110,-68,4,Clothing,Saree,EMI
+Order ID,98,9,2,Furniture,Furnishings,COD
+Order ID,97,-62,2,Clothing,Trousers,COD
+Order ID,111,35,5,Clothing,Shirt,COD
+Order ID,45,17,1,Electronics,Accessories,COD
+Order ID,112,15,2,Furniture,Chairs,COD
+Order ID,110,20,5,Clothing,Stole,Debit Card
+Order ID,98,-5,2,Clothing,Saree,UPI
+Order ID,110,12,7,Clothing,Stole,Debit Card
+Order ID,95,11,4,Furniture,Furnishings,COD
+Order ID,1228,14,3,Furniture,Chairs,UPI
+Order ID,29,0,3,Furniture,Furnishings,COD
+Order ID,94,27,2,Clothing,T-shirt,COD
+Order ID,115,25,1,Electronics,Accessories,COD
+Order ID,149,15,3,Clothing,Saree,EMI
+Order ID,148,23,4,Clothing,Kurti,EMI
+Order ID,93,15,2,Electronics,Accessories,COD
+Order ID,113,24,4,Clothing,Hankerchief,Debit Card
+Order ID,48,2,3,Clothing,Stole,COD
+Order ID,148,9,1,Electronics,Electronic Games,UPI
+Order ID,114,11,4,Clothing,T-shirt,Debit Card
+Order ID,92,42,2,Clothing,Stole,COD
+Order ID,117,14,3,Clothing,Shirt,UPI
+Order ID,21,-10,4,Clothing,Leggings,COD
+Order ID,33,-10,6,Clothing,Leggings,UPI
+Order ID,114,8,3,Electronics,Accessories,Debit Card
+Order ID,115,0,1,Electronics,Accessories,Debit Card
+Order ID,90,29,5,Clothing,T-shirt,COD
+Order ID,61,1,2,Furniture,Furnishings,COD
+Order ID,119,1,1,Furniture,Chairs,COD
+Order ID,117,36,2,Clothing,Trousers,Debit Card
+Order ID,148,54,2,Furniture,Chairs,UPI
+Order ID,249,-5,4,Clothing,Saree,COD
+Order ID,147,73,3,Clothing,Stole,UPI
+Order ID,118,35,7,Clothing,T-shirt,EMI
+Order ID,119,56,7,Clothing,Saree,EMI
+Order ID,90,27,2,Clothing,T-shirt,COD
+Order ID,32,1,2,Clothing,Stole,COD
+Order ID,89,-89,2,Furniture,Furnishings,COD
+Order ID,146,66,1,Electronics,Phones,UPI
+Order ID,89,-37,4,Clothing,Shirt,COD
+Order ID,88,11,3,Electronics,Accessories,COD
+Order ID,121,41,4,Clothing,Stole,EMI
+Order ID,88,20,2,Clothing,Saree,COD
+Order ID,87,-83,5,Clothing,Kurti,COD
+Order ID,87,4,2,Clothing,Shirt,COD
+Order ID,122,15,3,Electronics,Accessories,EMI
+Order ID,87,10,3,Clothing,Stole,COD
+Order ID,53,8,3,Furniture,Furnishings,UPI
+Order ID,87,-32,9,Clothing,Skirt,COD
+Order ID,86,-55,6,Clothing,Saree,COD
+Order ID,125,22,3,Clothing,Stole,EMI
+Order ID,128,-3,3,Clothing,Saree,Debit Card
+Order ID,143,-124,5,Clothing,Saree,UPI
+Order ID,86,22,2,Clothing,Saree,COD
+Order ID,86,9,3,Clothing,Saree,COD
+Order ID,85,-9,4,Clothing,Saree,COD
+Order ID,129,-75,5,Clothing,Shirt,Debit Card
+Order ID,84,-42,2,Electronics,Accessories,COD
+Order ID,83,-81,3,Furniture,Chairs,COD
+Order ID,143,6,2,Electronics,Accessories,UPI
+Order ID,336,123,3,Electronics,Phones,UPI
+Order ID,323,122,5,Electronics,Phones,UPI
+Order ID,130,61,3,Clothing,Shirt,Debit Card
+Order ID,152,-3,5,Clothing,Saree,COD
+Order ID,25,10,1,Furniture,Furnishings,UPI
+Order ID,140,15,5,Clothing,Stole,UPI
+Order ID,45,0,2,Clothing,Stole,UPI
+Order ID,132,49,3,Clothing,Shirt,COD
+Order ID,133,12,5,Clothing,Stole,Debit Card
+Order ID,82,13,2,Clothing,Shirt,COD
+Order ID,140,56,4,Clothing,Shirt,UPI
+Order ID,81,19,7,Clothing,Hankerchief,COD
+Order ID,137,38,5,Clothing,Hankerchief,Debit Card
+Order ID,137,-41,3,Electronics,Phones,Debit Card
+Order ID,140,57,2,Clothing,Trousers,Debit Card
+Order ID,139,30,3,Clothing,Shirt,UPI
+Order ID,138,11,5,Clothing,Stole,UPI
+Order ID,79,-124,9,Clothing,Skirt,COD
+Order ID,136,41,3,Electronics,Accessories,UPI
+Order ID,145,16,3,Clothing,T-shirt,Debit Card
+Order ID,44,20,2,Clothing,T-shirt,UPI
+Order ID,79,6,7,Clothing,Saree,COD
+Order ID,79,36,4,Clothing,Shirt,COD
+Order ID,134,-13,3,Electronics,Electronic Games,UPI
+Order ID,133,5,5,Clothing,Stole,UPI
+Order ID,47,20,7,Clothing,Hankerchief,UPI
+Order ID,133,-42,1,Electronics,Printers,UPI
+Order ID,78,27,3,Clothing,Stole,COD
+Order ID,78,7,1,Furniture,Chairs,COD
+Order ID,76,-92,8,Furniture,Furnishings,COD
+Order ID,76,-50,1,Clothing,Saree,COD
+Order ID,76,19,3,Clothing,Hankerchief,COD
+Order ID,74,29,3,Clothing,Stole,COD
+Order ID,74,-25,3,Clothing,Stole,COD
+Order ID,146,-63,3,Electronics,Electronic Games,Debit Card
+Order ID,73,-31,1,Furniture,Bookcases,COD
+Order ID,80,22,3,Clothing,Stole,UPI
+Order ID,133,46,5,Clothing,Shirt,EMI
+Order ID,146,7,2,Electronics,Phones,Debit Card
+Order ID,130,-41,4,Clothing,Saree,EMI
+Order ID,141,41,3,Clothing,Shirt,UPI
+Order ID,147,21,3,Furniture,Furnishings,Debit Card
+Order ID,73,-7,1,Electronics,Phones,COD
+Order ID,148,72,7,Clothing,T-shirt,Debit Card
+Order ID,58,0,4,Clothing,Saree,UPI
+Order ID,21,-13,3,Clothing,Leggings,UPI
+Order ID,148,25,3,Clothing,Saree,Debit Card
+Order ID,144,-7,4,Electronics,Electronic Games,COD
+Order ID,145,-104,5,Furniture,Chairs,UPI
+Order ID,72,-49,1,Electronics,Phones,COD
+Order ID,125,15,5,Clothing,Shirt,EMI
+Order ID,149,15,3,Clothing,Saree,Debit Card
+Order ID,72,16,2,Clothing,Shirt,COD
+Order ID,71,0,8,Clothing,Skirt,COD
+Order ID,71,-14,4,Furniture,Furnishings,COD
+Order ID,154,-85,3,Furniture,Chairs,EMI
+Order ID,191,13,8,Furniture,Furnishings,COD
+Order ID,170,19,5,Clothing,T-shirt,UPI
+Order ID,47,-3,2,Clothing,Stole,UPI
+Order ID,122,-47,4,Clothing,Saree,EMI
+Order ID,70,26,5,Clothing,Hankerchief,COD
+Order ID,155,5,3,Clothing,Stole,EMI
+Order ID,67,-86,9,Furniture,Furnishings,COD
+Order ID,67,-42,3,Clothing,Stole,COD
+Order ID,148,-101,2,Furniture,Bookcases,UPI
+Order ID,122,38,6,Clothing,T-shirt,Credit Card
+Order ID,16,-5,2,Clothing,Stole,UPI
+Order ID,121,-17,3,Furniture,Furnishings,Credit Card
+Order ID,42,-15,12,Clothing,Skirt,UPI
+Order ID,65,-4,6,Clothing,Hankerchief,COD
+Order ID,119,-43,7,Clothing,Kurti,Credit Card
+Order ID,155,56,3,Furniture,Furnishings,EMI
+Order ID,119,-5,8,Clothing,Saree,Credit Card
+Order ID,118,25,4,Clothing,Hankerchief,Credit Card
+Order ID,116,22,1,Electronics,Accessories,Credit Card
+Order ID,158,-29,10,Clothing,Hankerchief,EMI
+Order ID,158,69,3,Clothing,Stole,EMI
+Order ID,65,-52,3,Electronics,Accessories,COD
+Order ID,160,-59,2,Clothing,Saree,EMI
+Order ID,162,20,3,Furniture,Chairs,EMI
+Order ID,63,1,4,Clothing,T-shirt,COD
+Order ID,64,27,5,Clothing,Hankerchief,UPI
+Order ID,166,-113,4,Electronics,Accessories,EMI
+Order ID,167,43,7,Clothing,T-shirt,EMI
+Order ID,123,17,3,Furniture,Furnishings,COD
+Order ID,63,14,2,Clothing,Shirt,COD
+Order ID,891,0,5,Clothing,Saree,COD
+Order ID,75,28,9,Clothing,Hankerchief,UPI
+Order ID,62,6,5,Clothing,Hankerchief,COD
+Order ID,29,-18,7,Clothing,Skirt,UPI
+Order ID,168,18,6,Clothing,Stole,Debit Card
+Order ID,70,24,3,Clothing,Stole,UPI
+Order ID,169,55,4,Clothing,Saree,Debit Card
+Order ID,32,-8,2,Clothing,Stole,COD
+Order ID,44,-8,3,Clothing,Stole,UPI
+Order ID,116,-56,5,Clothing,Stole,Credit Card
+Order ID,156,21,3,Furniture,Chairs,COD
+Order ID,62,6,6,Clothing,Skirt,COD
+Order ID,54,1,2,Clothing,Saree,UPI
+Order ID,111,11,9,Clothing,Hankerchief,Credit Card
+Order ID,158,-63,4,Furniture,Chairs,UPI
+Order ID,7,-3,2,Clothing,Skirt,UPI
+Order ID,61,28,2,Clothing,Hankerchief,UPI
+Order ID,61,-50,4,Clothing,Hankerchief,COD
+Order ID,154,26,4,Electronics,Accessories,COD
+Order ID,62,1,3,Clothing,Saree,COD
+Order ID,169,38,3,Clothing,Saree,Debit Card
+Order ID,61,18,2,Electronics,Accessories,COD
+Order ID,61,-23,2,Clothing,Saree,COD
+Order ID,171,14,9,Clothing,Shirt,Debit Card
+Order ID,60,-49,8,Clothing,Hankerchief,COD
+Order ID,25,-11,1,Clothing,Stole,UPI
+Order ID,163,26,4,Clothing,Shirt,COD
+Order ID,173,86,1,Electronics,Printers,Debit Card
+Order ID,257,-3,2,Furniture,Bookcases,UPI
+Order ID,108,37,2,Clothing,Stole,Credit Card
+Order ID,177,41,4,Clothing,Shirt,Debit Card
+Order ID,106,15,7,Clothing,Hankerchief,Credit Card
+Order ID,41,-14,5,Clothing,Leggings,UPI
+Order ID,168,-10,3,Electronics,Accessories,UPI
+Order ID,60,21,4,Clothing,Stole,COD
+Order ID,31,-11,4,Clothing,Stole,COD
+Order ID,179,0,2,Clothing,Saree,Debit Card
+Order ID,106,12,3,Clothing,Trousers,Credit Card
+Order ID,60,13,2,Clothing,T-shirt,COD
+Order ID,180,5,3,Clothing,Trousers,Debit Card
+Order ID,60,-10,2,Furniture,Furnishings,COD
+Order ID,59,25,3,Clothing,Stole,COD
+Order ID,170,73,2,Electronics,Accessories,UPI
+Order ID,59,10,2,Clothing,Hankerchief,COD
+Order ID,24,-21,7,Clothing,Skirt,COD
+Order ID,105,-26,8,Clothing,Leggings,Credit Card
+Order ID,103,46,2,Clothing,Saree,Credit Card
+Order ID,171,17,6,Clothing,T-shirt,UPI
+Order ID,102,13,2,Clothing,Stole,Credit Card
+Order ID,98,12,2,Clothing,Hankerchief,Credit Card
+Order ID,59,10,4,Clothing,Leggings,COD
+Order ID,189,60,4,Furniture,Furnishings,Debit Card
+Order ID,58,-52,3,Furniture,Chairs,COD
+Order ID,60,3,3,Clothing,Saree,UPI
+Order ID,58,-8,2,Clothing,Saree,COD
+Order ID,94,20,2,Furniture,Furnishings,UPI
+Order ID,193,-166,3,Clothing,Saree,EMI
+Order ID,199,0,4,Clothing,Stole,EMI
+Order ID,202,89,9,Clothing,T-shirt,EMI
+Order ID,58,17,2,Clothing,Hankerchief,COD
+Order ID,57,-28,2,Clothing,Kurti,COD
+Order ID,204,-94,4,Clothing,Hankerchief,EMI
+Order ID,98,-12,2,Electronics,Electronic Games,Credit Card
+Order ID,22,-12,3,Clothing,Stole,COD
+Order ID,97,17,2,Clothing,Stole,Credit Card
+Order ID,57,24,5,Clothing,Leggings,COD
+Order ID,97,14,2,Clothing,T-shirt,Credit Card
+Order ID,97,17,2,Clothing,Stole,Credit Card
+Order ID,96,22,5,Clothing,Stole,Credit Card
+Order ID,94,27,2,Clothing,Shirt,Credit Card
+Order ID,26,-17,1,Clothing,Stole,COD
+Order ID,93,44,2,Clothing,Stole,Credit Card
+Order ID,93,-65,4,Clothing,Stole,Credit Card
+Order ID,92,5,6,Clothing,Hankerchief,Credit Card
+Order ID,57,27,2,Clothing,T-shirt,COD
+Order ID,57,7,3,Furniture,Furnishings,COD
+Order ID,57,21,4,Clothing,Leggings,COD
+Order ID,128,4,3,Clothing,Saree,COD
+Order ID,89,-4,5,Clothing,Saree,Credit Card
+Order ID,221,26,7,Furniture,Furnishings,COD
+Order ID,205,-119,3,Clothing,Saree,Debit Card
+Order ID,191,51,5,Clothing,Shirt,UPI
+Order ID,206,18,4,Clothing,Hankerchief,Debit Card
+Order ID,56,0,4,Clothing,Hankerchief,COD
+Order ID,88,16,4,Clothing,Stole,Credit Card
+Order ID,224,58,3,Electronics,Phones,UPI
+Order ID,193,8,4,Clothing,T-shirt,UPI
+Order ID,87,36,5,Clothing,Stole,Credit Card
+Order ID,189,4,1,Clothing,Saree,UPI
+Order ID,55,-33,2,Furniture,Chairs,COD
+Order ID,85,-1,3,Clothing,Saree,Credit Card
+Order ID,252,56,2,Electronics,Phones,UPI
+Order ID,197,73,1,Furniture,Bookcases,COD
+Order ID,17,-3,2,Clothing,Stole,UPI
+Order ID,100,28,2,Clothing,Hankerchief,UPI
+Order ID,80,-19,5,Clothing,Stole,UPI
+Order ID,75,29,1,Clothing,Trousers,UPI
+Order ID,26,4,2,Clothing,Saree,UPI
+Order ID,55,12,5,Clothing,Skirt,COD
+Order ID,157,5,9,Clothing,Saree,UPI
+Order ID,200,-60,4,Furniture,Bookcases,UPI
+Order ID,230,5,2,Clothing,Saree,UPI
+Order ID,213,-145,3,Furniture,Bookcases,Debit Card
+Order ID,55,4,2,Clothing,Stole,COD
+Order ID,220,-19,2,Clothing,Saree,Debit Card
+Order ID,150,32,3,Clothing,Hankerchief,COD
+Order ID,203,84,2,Electronics,Printers,UPI
+Order ID,93,31,3,Electronics,Accessories,UPI
+Order ID,290,35,6,Clothing,Hankerchief,COD
+Order ID,48,6,1,Clothing,Saree,COD
+Order ID,221,35,4,Electronics,Accessories,Debit Card
+Order ID,55,18,2,Clothing,Kurti,COD
+Order ID,227,102,8,Electronics,Accessories,Debit Card
+Order ID,55,-39,4,Clothing,Stole,COD
+Order ID,207,33,2,Electronics,Accessories,UPI
+Order ID,64,6,4,Clothing,Saree,COD
+Order ID,89,6,5,Clothing,Saree,COD
+Order ID,54,27,2,Clothing,Stole,COD
+Order ID,84,41,3,Clothing,T-shirt,Credit Card
+Order ID,209,-21,2,Electronics,Electronic Games,UPI
+Order ID,79,33,4,Clothing,Stole,UPI
+Order ID,54,8,4,Clothing,T-shirt,COD
+Order ID,229,59,9,Clothing,Saree,Debit Card
+Order ID,158,38,3,Clothing,Hankerchief,UPI
+Order ID,248,105,2,Electronics,Phones,Debit Card
+Order ID,199,6,2,Clothing,Saree,UPI
+Order ID,253,-11,1,Clothing,Trousers,Debit Card
+Order ID,257,-252,4,Clothing,Saree,Debit Card
+Order ID,193,33,5,Electronics,Accessories,COD
+Order ID,109,35,6,Clothing,T-shirt,COD
+Order ID,214,30,3,Electronics,Accessories,COD
+Order ID,141,7,7,Clothing,Saree,COD
+Order ID,201,32,4,Furniture,Furnishings,UPI
+Order ID,54,12,4,Clothing,Shirt,COD
+Order ID,83,6,6,Clothing,Shirt,EMI
+Order ID,54,-3,3,Clothing,Saree,COD
+Order ID,53,5,3,Clothing,T-shirt,COD
+Order ID,258,-27,2,Electronics,Phones,Debit Card
+Order ID,199,8,2,Clothing,Saree,COD
+Order ID,82,-27,3,Clothing,Kurti,EMI
+Order ID,139,36,3,Clothing,Stole,COD
+Order ID,53,15,2,Clothing,Stole,COD
+Order ID,53,1,4,Clothing,Stole,COD
+Order ID,101,38,2,Furniture,Furnishings,COD
+Order ID,262,215,2,Electronics,Printers,Debit Card
+Order ID,82,-39,5,Clothing,T-shirt,EMI
+Order ID,154,39,3,Clothing,Hankerchief,COD
+Order ID,52,18,2,Clothing,Stole,COD
+Order ID,1599,37,6,Electronics,Electronic Games,UPI
+Order ID,338,41,7,Clothing,Hankerchief,UPI
+Order ID,51,-49,2,Electronics,Electronic Games,COD
+Order ID,224,-81,3,Furniture,Chairs,COD
+Order ID,207,37,4,Clothing,Hankerchief,COD
+Order ID,51,14,2,Clothing,Stole,COD
+Order ID,82,8,3,Electronics,Accessories,EMI
+Order ID,50,-17,2,Clothing,Stole,COD
+Order ID,263,-31,9,Electronics,Electronic Games,Debit Card
+Order ID,50,7,6,Clothing,Skirt,COD
+Order ID,245,-3,4,Electronics,Phones,UPI
+Order ID,82,24,6,Clothing,Hankerchief,EMI
+Order ID,229,-41,8,Electronics,Accessories,COD
+Order ID,50,14,1,Electronics,Electronic Games,COD
+Order ID,220,40,2,Electronics,Accessories,COD
+Order ID,263,-63,2,Electronics,Electronic Games,Debit Card
+Order ID,81,-41,5,Clothing,Leggings,EMI
+Order ID,50,-17,2,Clothing,Stole,COD
+Order ID,49,5,4,Clothing,Hankerchief,COD
+Order ID,237,47,9,Clothing,T-shirt,UPI
+Order ID,264,-30,3,Furniture,Furnishings,Debit Card
+Order ID,49,3,1,Clothing,Shirt,COD
+Order ID,63,-24,6,Clothing,Kurti,COD
+Order ID,81,-51,7,Clothing,Stole,EMI
+Order ID,264,71,10,Furniture,Furnishings,Debit Card
+Order ID,48,11,2,Clothing,Shirt,COD
+Order ID,48,15,1,Clothing,Hankerchief,COD
+Order ID,245,-78,2,Electronics,Printers,UPI
+Order ID,146,42,5,Clothing,Hankerchief,UPI
+Order ID,245,10,2,Furniture,Bookcases,COD
+Order ID,245,91,2,Furniture,Bookcases,UPI
+Order ID,80,3,3,Clothing,Stole,EMI
+Order ID,269,33,5,Furniture,Chairs,Debit Card
+Order ID,80,22,3,Clothing,Stole,EMI
+Order ID,284,44,6,Clothing,Hankerchief,COD
+Order ID,313,44,3,Electronics,Electronic Games,COD
+Order ID,80,-26,9,Clothing,Skirt,EMI
+Order ID,48,-8,8,Clothing,Stole,COD
+Order ID,87,16,2,Clothing,Saree,UPI
+Order ID,47,-114,5,Furniture,Furnishings,COD
+Order ID,140,28,2,Electronics,Phones,COD
+Order ID,47,1,2,Clothing,Stole,COD
+Order ID,79,-2,2,Furniture,Furnishings,EMI
+Order ID,78,-64,7,Clothing,Stole,EMI
+Order ID,47,-3,2,Clothing,Stole,COD
+Order ID,185,48,4,Clothing,Stole,UPI
+Order ID,77,36,2,Clothing,Shirt,EMI
+Order ID,259,47,5,Clothing,Hankerchief,UPI
+Order ID,75,0,7,Clothing,Saree,EMI
+Order ID,75,0,3,Clothing,Shirt,EMI
+Order ID,46,0,4,Clothing,Leggings,COD
+Order ID,46,13,3,Clothing,Hankerchief,COD
+Order ID,200,13,5,Electronics,Phones,COD
+Order ID,46,-14,1,Electronics,Phones,COD
+Order ID,126,52,4,Clothing,Hankerchief,UPI
+Order ID,74,29,3,Clothing,Stole,EMI
+Order ID,45,13,4,Clothing,Skirt,COD
+Order ID,74,9,3,Clothing,Shirt,UPI
+Order ID,129,11,2,Electronics,Phones,UPI
+Order ID,122,50,7,Clothing,Stole,UPI
+Order ID,74,-51,3,Clothing,Stole,UPI
+Order ID,278,39,5,Furniture,Chairs,Debit Card
+Order ID,282,14,4,Clothing,Trousers,Debit Card
+Order ID,45,0,2,Clothing,T-shirt,COD
+Order ID,45,6,3,Clothing,Shirt,COD
+Order ID,45,16,3,Clothing,Stole,COD
+Order ID,73,-36,3,Furniture,Chairs,UPI
+Order ID,45,12,4,Clothing,Hankerchief,COD
+Order ID,72,-6,3,Clothing,Saree,UPI
+Order ID,71,-44,5,Electronics,Accessories,UPI
+Order ID,45,-2,4,Clothing,Shirt,COD
+Order ID,286,140,6,Clothing,Shirt,Debit Card
+Order ID,294,138,2,Electronics,Printers,Debit Card
+Order ID,223,4,3,Electronics,Phones,COD
+Order ID,20,-2,1,Electronics,Accessories,UPI
+Order ID,302,75,6,Furniture,Furnishings,Debit Card
+Order ID,113,28,2,Clothing,Saree,UPI
+Order ID,44,2,3,Clothing,Hankerchief,COD
+Order ID,305,-270,5,Electronics,Electronic Games,Debit Card
+Order ID,306,-147,3,Clothing,Saree,Debit Card
+Order ID,70,-64,5,Clothing,Stole,UPI
+Order ID,44,11,4,Clothing,Stole,COD
+Order ID,44,14,3,Clothing,Hankerchief,COD
+Order ID,319,312,5,Clothing,Saree,Debit Card
+Order ID,287,-280,12,Furniture,Chairs,UPI
+Order ID,44,10,3,Clothing,Stole,COD
+Order ID,288,-180,4,Furniture,Chairs,COD
+Order ID,49,-31,2,Clothing,Stole,COD
+Order ID,43,-10,4,Clothing,Skirt,COD
+Order ID,43,5,3,Clothing,Stole,COD
+Order ID,68,-27,3,Electronics,Accessories,UPI
+Order ID,320,144,1,Electronics,Printers,Debit Card
+Order ID,67,2,4,Clothing,T-shirt,UPI
+Order ID,66,-12,5,Clothing,Stole,UPI
+Order ID,321,26,3,Electronics,Printers,Debit Card
+Order ID,43,-5,2,Clothing,Saree,COD
+Order ID,114,-39,5,Clothing,Kurti,COD
+Order ID,43,17,1,Clothing,Saree,COD
+Order ID,43,21,3,Clothing,Shirt,COD
+Order ID,637,50,5,Clothing,Saree,COD
+Order ID,300,42,2,Electronics,Printers,COD
+Order ID,341,44,7,Furniture,Furnishings,UPI
+Order ID,102,0,3,Electronics,Phones,COD
+Order ID,328,-15,3,Electronics,Electronic Games,Debit Card
+Order ID,341,160,7,Clothing,Stole,Debit Card
+Order ID,62,11,7,Clothing,Hankerchief,UPI
+Order ID,42,13,3,Clothing,Leggings,COD
+Order ID,62,28,5,Clothing,Hankerchief,UPI
+Order ID,42,7,2,Clothing,Kurti,COD
+Order ID,42,-3,1,Electronics,Electronic Games,COD
+Order ID,313,-13,5,Furniture,Bookcases,UPI
+Order ID,109,52,2,Clothing,Stole,UPI
+Order ID,226,58,3,Electronics,Accessories,COD
+Order ID,62,-1,1,Electronics,Phones,UPI
+Order ID,61,-25,4,Electronics,Accessories,UPI
+Order ID,222,74,5,Clothing,Hankerchief,COD
+Order ID,342,-154,7,Furniture,Furnishings,Debit Card
+Order ID,344,-34,3,Clothing,Saree,Debit Card
+Order ID,345,38,7,Clothing,Hankerchief,Debit Card
+Order ID,46,0,2,Electronics,Electronic Games,COD
+Order ID,255,74,5,Clothing,Hankerchief,COD
+Order ID,360,32,3,Clothing,Saree,UPI
+Order ID,372,59,3,Electronics,Printers,UPI
+Order ID,61,30,2,Clothing,Hankerchief,UPI
+Order ID,42,12,5,Clothing,Hankerchief,COD
+Order ID,42,-26,2,Clothing,Kurti,COD
+Order ID,61,25,4,Clothing,Saree,UPI
+Order ID,41,11,6,Clothing,Hankerchief,COD
+Order ID,40,13,3,Clothing,T-shirt,COD
+Order ID,59,21,2,Clothing,Stole,UPI
+Order ID,57,27,2,Clothing,Shirt,UPI
+Order ID,17,6,1,Clothing,Stole,UPI
+Order ID,40,10,2,Clothing,Stole,COD
+Order ID,349,-24,2,Clothing,Saree,Debit Card
+Order ID,335,-22,7,Furniture,Chairs,UPI
+Order ID,40,16,3,Clothing,Hankerchief,COD
+Order ID,40,17,2,Clothing,Stole,COD
+Order ID,40,-7,3,Clothing,Stole,COD
+Order ID,352,74,8,Clothing,Stole,Debit Card
+Order ID,55,-26,4,Clothing,Saree,UPI
+Order ID,352,18,5,Clothing,Trousers,Debit Card
+Order ID,53,-18,4,Clothing,T-shirt,UPI
+Order ID,51,7,2,Furniture,Furnishings,UPI
+Order ID,40,-37,3,Clothing,Stole,COD
+Order ID,39,14,5,Clothing,Leggings,COD
+Order ID,355,-4,2,Clothing,Saree,Debit Card
+Order ID,357,139,2,Clothing,Saree,Debit Card
+Order ID,38,18,1,Clothing,Kurti,COD
+Order ID,38,9,2,Clothing,Stole,COD
+Order ID,141,10,4,Clothing,Shirt,UPI
+Order ID,36,4,9,Clothing,Hankerchief,COD
+Order ID,351,-94,5,Electronics,Electronic Games,COD
+Order ID,369,15,3,Electronics,Electronic Games,Debit Card
+Order ID,53,24,6,Clothing,Hankerchief,EMI
+Order ID,371,115,1,Furniture,Bookcases,Debit Card
+Order ID,499,33,4,Clothing,Saree,COD
+Order ID,223,62,7,Clothing,Shirt,COD
+Order ID,50,-4,6,Clothing,T-shirt,EMI
+Order ID,391,90,6,Electronics,Phones,Debit Card
+Order ID,416,137,3,Electronics,Phones,Debit Card
+Order ID,424,-17,9,Furniture,Chairs,Debit Card
+Order ID,362,127,1,Furniture,Bookcases,COD
+Order ID,36,-7,1,Electronics,Electronic Games,COD
+Order ID,34,-10,3,Clothing,Skirt,COD
+Order ID,367,73,3,Electronics,Electronic Games,UPI
+Order ID,425,208,7,Clothing,Saree,Debit Card
+Order ID,433,26,3,Electronics,Printers,Debit Card
+Order ID,460,31,3,Furniture,Bookcases,Debit Card
+Order ID,62,-56,5,Clothing,Kurti,COD
+Order ID,50,16,1,Clothing,Stole,EMI
+Order ID,460,-143,3,Furniture,Chairs,Debit Card
+Order ID,34,3,3,Clothing,Saree,COD
+Order ID,227,59,2,Furniture,Furnishings,UPI
+Order ID,469,33,4,Electronics,Electronic Games,Debit Card
+Order ID,103,46,2,Clothing,Saree,UPI
+Order ID,34,-13,5,Clothing,Leggings,COD
+Order ID,137,63,3,Clothing,Stole,COD
+Order ID,34,12,2,Clothing,Stole,COD
+Order ID,474,56,4,Electronics,Phones,Debit Card
+Order ID,50,3,2,Clothing,Stole,EMI
+Order ID,69,-67,4,Clothing,Kurti,UPI
+Order ID,389,-83,3,Furniture,Chairs,UPI
+Order ID,77,-43,8,Clothing,Stole,COD
+Order ID,51,21,3,Clothing,T-shirt,COD
+Order ID,394,146,2,Furniture,Bookcases,UPI
+Order ID,48,-22,2,Clothing,Saree,EMI
+Order ID,34,-12,5,Clothing,Leggings,COD
+Order ID,484,28,3,Electronics,Printers,Debit Card
+Order ID,47,-27,4,Clothing,Saree,EMI
+Order ID,45,8,4,Clothing,Skirt,EMI
+Order ID,128,55,1,Clothing,Saree,COD
+Order ID,669,74,5,Furniture,Bookcases,COD
+Order ID,34,13,2,Clothing,Saree,COD
+Order ID,44,14,3,Clothing,Hankerchief,Credit Card
+Order ID,33,1,2,Clothing,Shirt,COD
+Order ID,33,10,3,Clothing,Hankerchief,COD
+Order ID,487,-23,3,Electronics,Printers,Debit Card
+Order ID,497,179,3,Furniture,Chairs,Debit Card
+Order ID,508,203,2,Electronics,Accessories,Debit Card
+Order ID,524,-25,2,Electronics,Electronic Games,Debit Card
+Order ID,425,183,5,Electronics,Accessories,UPI
+Order ID,168,56,3,Clothing,Saree,COD
+Order ID,141,28,7,Furniture,Furnishings,UPI
+Order ID,429,17,3,Furniture,Chairs,UPI
+Order ID,44,-8,3,Clothing,Stole,Credit Card
+Order ID,149,136,3,Clothing,Stole,UPI
+Order ID,44,-34,3,Clothing,Stole,Credit Card
+Order ID,33,10,3,Clothing,Hankerchief,COD
+Order ID,33,9,2,Clothing,Hankerchief,COD
+Order ID,442,31,2,Electronics,Electronic Games,UPI
+Order ID,41,6,5,Clothing,Skirt,Credit Card
+Order ID,33,-12,5,Clothing,Hankerchief,COD
+Order ID,32,3,8,Clothing,Hankerchief,COD
+Order ID,32,6,3,Clothing,Shirt,COD
+Order ID,179,77,1,Clothing,Saree,UPI
+Order ID,31,10,1,Clothing,Kurti,COD
+Order ID,140,68,5,Clothing,T-shirt,COD
+Order ID,529,137,3,Electronics,Phones,Debit Card
+Order ID,534,0,3,Clothing,Saree,Debit Card
+Order ID,41,-6,1,Furniture,Chairs,Credit Card
+Order ID,379,63,2,Clothing,Saree,COD
+Order ID,81,-44,3,Clothing,Stole,COD
+Order ID,40,-33,5,Clothing,Hankerchief,Credit Card
+Order ID,40,18,1,Electronics,Accessories,Credit Card
+Order ID,534,0,3,Clothing,Saree,Debit Card
+Order ID,31,9,2,Clothing,Hankerchief,COD
+Order ID,473,-113,9,Clothing,Hankerchief,UPI
+Order ID,31,-10,3,Clothing,Skirt,COD
+Order ID,31,-3,4,Clothing,Saree,COD
+Order ID,91,15,6,Clothing,T-shirt,UPI
+Order ID,30,-25,2,Clothing,T-shirt,COD
+Order ID,30,6,1,Clothing,T-shirt,COD
+Order ID,40,0,3,Clothing,Saree,Credit Card
+Order ID,534,5,2,Electronics,Electronic Games,Debit Card
+Order ID,539,-146,7,Furniture,Furnishings,Debit Card
+Order ID,490,-128,8,Furniture,Bookcases,UPI
+Order ID,163,81,2,Electronics,Accessories,COD
+Order ID,184,85,6,Clothing,T-shirt,UPI
+Order ID,494,54,4,Furniture,Bookcases,COD
+Order ID,30,11,5,Clothing,Hankerchief,COD
+Order ID,30,0,1,Clothing,Kurti,COD
+Order ID,39,-18,2,Clothing,Leggings,Credit Card
+Order ID,1700,85,3,Clothing,Trousers,COD
+Order ID,332,-43,6,Electronics,Phones,UPI
+Order ID,436,131,9,Clothing,Hankerchief,UPI
+Order ID,30,-5,2,Furniture,Furnishings,COD
+Order ID,30,-10,2,Clothing,Stole,COD
+Order ID,38,-13,3,Clothing,Stole,Credit Card
+Order ID,511,194,3,Furniture,Chairs,UPI
+Order ID,37,-53,3,Clothing,Saree,Credit Card
+Order ID,513,215,2,Electronics,Accessories,COD
+Order ID,516,69,4,Furniture,Bookcases,UPI
+Order ID,559,-19,2,Clothing,Trousers,Debit Card
+Order ID,29,-10,3,Clothing,Skirt,COD
+Order ID,148,52,5,Clothing,Stole,UPI
+Order ID,559,-174,2,Electronics,Electronic Games,Debit Card
+Order ID,527,26,3,Electronics,Electronic Games,COD
+Order ID,560,44,3,Clothing,Saree,Debit Card
+Order ID,571,108,12,Clothing,Stole,Debit Card
+Order ID,29,2,3,Clothing,Skirt,COD
+Order ID,29,3,2,Clothing,Stole,COD
+Order ID,29,-3,3,Clothing,Saree,COD
+Order ID,35,14,2,Clothing,Stole,Credit Card
+Order ID,579,139,3,Electronics,Printers,Debit Card
+Order ID,29,-24,4,Clothing,Leggings,COD
+Order ID,593,213,4,Furniture,Bookcases,Debit Card
+Order ID,217,72,2,Furniture,Furnishings,COD
+Order ID,353,90,8,Clothing,Saree,COD
+Order ID,382,92,2,Electronics,Printers,COD
+Order ID,597,93,4,Furniture,Chairs,Debit Card
+Order ID,212,97,7,Clothing,Hankerchief,COD
+Order ID,689,90,5,Clothing,Saree,COD
+Order ID,28,-10,3,Clothing,Skirt,COD
+Order ID,34,12,3,Clothing,Hankerchief,Credit Card
+Order ID,600,-102,5,Electronics,Electronic Games,Debit Card
+Order ID,637,113,5,Clothing,Saree,UPI
+Order ID,616,-69,7,Furniture,Furnishings,Debit Card
+Order ID,624,37,2,Electronics,Electronic Games,Debit Card
+Order ID,28,4,1,Clothing,T-shirt,COD
+Order ID,584,-444,7,Electronics,Printers,UPI
+Order ID,28,6,4,Clothing,Skirt,COD
+Order ID,33,-1,1,Clothing,Saree,Credit Card
+Order ID,27,-20,2,Clothing,Hankerchief,COD
+Order ID,27,5,2,Clothing,Skirt,COD
+Order ID,27,4,3,Clothing,Skirt,COD
+Order ID,635,-349,5,Clothing,Saree,Debit Card
+Order ID,598,166,4,Furniture,Bookcases,UPI
+Order ID,636,-204,2,Electronics,Printers,Debit Card
+Order ID,27,9,2,Clothing,Hankerchief,COD
+Order ID,27,-6,4,Clothing,Hankerchief,COD
+Order ID,637,212,8,Electronics,Phones,Debit Card
+Order ID,290,110,9,Clothing,Stole,UPI
+Order ID,27,-25,2,Clothing,Stole,COD
+Order ID,632,-114,4,Furniture,Tables,UPI
+Order ID,643,-45,2,Electronics,Printers,Debit Card
+Order ID,652,13,6,Furniture,Furnishings,Debit Card
+Order ID,33,-27,1,Furniture,Chairs,Credit Card
+Order ID,26,2,2,Clothing,Hankerchief,COD
+Order ID,633,-633,11,Electronics,Accessories,UPI
+Order ID,26,9,2,Clothing,Leggings,COD
+Order ID,191,93,4,Clothing,Shirt,UPI
+Order ID,887,80,3,Electronics,Printers,UPI
+Order ID,637,261,2,Electronics,Printers,COD
+Order ID,670,15,5,Furniture,Bookcases,Debit Card
+Order ID,26,7,4,Clothing,Hankerchief,COD
+Order ID,676,195,5,Furniture,Bookcases,Debit Card
+Order ID,26,12,3,Clothing,Hankerchief,COD
+Order ID,26,-24,1,Clothing,Stole,COD
+Order ID,25,7,2,Clothing,Stole,COD
+Order ID,24,-30,1,Furniture,Chairs,COD
+Order ID,32,-12,1,Furniture,Chairs,Credit Card
+Order ID,31,-2,2,Clothing,Saree,Credit Card
+Order ID,651,169,5,Electronics,Printers,COD
+Order ID,326,107,3,Furniture,Furnishings,UPI
+Order ID,30,-6,2,Clothing,Hankerchief,UPI
+Order ID,30,5,2,Clothing,Kurti,UPI
+Order ID,662,240,2,Furniture,Bookcases,COD
+Order ID,30,-23,2,Clothing,Saree,UPI
+Order ID,29,9,3,Clothing,Saree,UPI
+Order ID,28,1,1,Electronics,Accessories,UPI
+Order ID,28,-3,2,Clothing,Saree,UPI
+Order ID,24,2,4,Clothing,Hankerchief,COD
+Order ID,28,-26,2,Clothing,Stole,UPI
+Order ID,27,5,1,Clothing,Stole,UPI
+Order ID,27,-15,1,Clothing,Stole,UPI
+Order ID,24,11,3,Clothing,Hankerchief,COD
+Order ID,23,-6,4,Clothing,Hankerchief,COD
+Order ID,322,193,5,Electronics,Printers,COD
+Order ID,688,-103,6,Electronics,Accessories,Debit Card
+Order ID,23,-3,1,Clothing,Shirt,COD
+Order ID,26,3,3,Clothing,Skirt,UPI
+Order ID,68,-56,2,Electronics,Phones,COD
+Order ID,462,169,4,Clothing,Saree,COD
+Order ID,941,203,3,Furniture,Tables,UPI
+Order ID,23,4,2,Clothing,Skirt,COD
+Order ID,720,43,2,Electronics,Printers,UPI
+Order ID,724,-447,4,Electronics,Electronic Games,UPI
+Order ID,724,253,2,Furniture,Bookcases,UPI
+Order ID,26,10,4,Clothing,Hankerchief,UPI
+Order ID,22,-2,3,Clothing,Hankerchief,COD
+Order ID,711,-8,4,Clothing,Saree,Debit Card
+Order ID,107,31,5,Clothing,T-shirt,COD
+Order ID,765,-153,2,Electronics,Phones,Debit Card
+Order ID,22,8,2,Clothing,Leggings,COD
+Order ID,26,-5,2,Clothing,Stole,UPI
+Order ID,22,8,3,Clothing,Hankerchief,COD
+Order ID,743,89,5,Electronics,Printers,UPI
+Order ID,22,-15,4,Clothing,Kurti,COD
+Order ID,781,594,6,Electronics,Printers,Debit Card
+Order ID,25,-2,5,Clothing,Hankerchief,UPI
+Order ID,25,2,2,Clothing,Hankerchief,UPI
+Order ID,119,43,5,Clothing,T-shirt,COD
+Order ID,785,52,2,Electronics,Phones,Debit Card
+Order ID,183,-66,5,Electronics,Phones,UPI
+Order ID,22,4,1,Clothing,Stole,COD
+Order ID,642,180,5,Clothing,Saree,COD
+Order ID,767,-353,5,Clothing,Trousers,COD
+Order ID,770,323,3,Electronics,Accessories,COD
+Order ID,21,-17,3,Clothing,Shirt,COD
+Order ID,21,-6,3,Clothing,Leggings,COD
+Order ID,492,187,2,Electronics,Accessories,UPI
+Order ID,816,-96,3,Electronics,Printers,Debit Card
+Order ID,25,2,3,Clothing,Kurti,Credit Card
+Order ID,802,120,7,Electronics,Accessories,COD
+Order ID,811,154,7,Electronics,Accessories,UPI
+Order ID,835,267,5,Electronics,Phones,Debit Card
+Order ID,21,-5,1,Electronics,Accessories,COD
+Order ID,450,-190,4,Furniture,Bookcases,COD
+Order ID,24,-1,4,Clothing,Skirt,Credit Card
+Order ID,832,0,3,Clothing,Trousers,UPI
+Order ID,833,93,3,Clothing,Trousers,UPI
+Order ID,20,6,1,Clothing,T-shirt,COD
+Order ID,23,-5,7,Clothing,Hankerchief,Credit Card
+Order ID,550,-242,5,Furniture,Furnishings,UPI
+Order ID,148,-91,2,Electronics,Phones,COD
+Order ID,846,9,2,Furniture,Chairs,Debit Card
+Order ID,856,385,6,Electronics,Printers,COD
+Order ID,871,131,2,Furniture,Bookcases,UPI
+Order ID,19,-18,4,Clothing,Kurti,COD
+Order ID,610,-66,2,Furniture,Tables,COD
+Order ID,880,97,8,Furniture,Furnishings,Debit Card
+Order ID,22,-8,4,Clothing,Hankerchief,Credit Card
+Order ID,22,11,2,Clothing,Skirt,Credit Card
+Order ID,21,4,3,Clothing,Hankerchief,Credit Card
+Order ID,18,1,3,Clothing,Hankerchief,COD
+Order ID,911,202,7,Furniture,Chairs,COD
+Order ID,18,2,3,Clothing,Hankerchief,COD
+Order ID,911,355,5,Electronics,Phones,Debit Card
+Order ID,143,-129,2,Electronics,Phones,COD
+Order ID,918,22,9,Electronics,Electronic Games,COD
+Order ID,925,-447,5,Electronics,Electronic Games,COD
+Order ID,17,8,2,Clothing,Skirt,COD
+Order ID,465,207,9,Clothing,Saree,COD
+Order ID,17,-9,3,Clothing,Stole,COD
+Order ID,935,114,4,Electronics,Electronic Games,UPI
+Order ID,16,-10,2,Clothing,T-shirt,COD
+Order ID,954,95,3,Electronics,Printers,UPI
+Order ID,915,-99,3,Furniture,Tables,Debit Card
+Order ID,955,305,3,Electronics,Printers,Debit Card
+Order ID,976,293,4,Electronics,Accessories,COD
+Order ID,1069,0,6,Clothing,Saree,EMI
+Order ID,19,-15,3,Clothing,Hankerchief,Credit Card
+Order ID,16,6,3,Clothing,Hankerchief,COD
+Order ID,1030,206,8,Electronics,Printers,UPI
+Order ID,620,82,6,Electronics,Accessories,COD
+Order ID,16,8,2,Clothing,Hankerchief,COD
+Order ID,19,8,2,Clothing,Hankerchief,Credit Card
+Order ID,249,-130,4,Electronics,Phones,UPI
+Order ID,16,6,1,Clothing,Stole,COD
+Order ID,1361,197,9,Furniture,Bookcases,COD
+Order ID,15,1,1,Clothing,Shirt,COD
+Order ID,1076,-38,4,Electronics,Printers,COD
+Order ID,18,2,3,Clothing,Hankerchief,Credit Card
+Order ID,1101,352,3,Furniture,Bookcases,UPI
+Order ID,15,2,1,Clothing,Leggings,COD
+Order ID,1104,209,4,Clothing,Trousers,UPI
+Order ID,14,2,1,Clothing,Hankerchief,COD
+Order ID,14,5,1,Clothing,Hankerchief,COD
+Order ID,14,-3,2,Clothing,Leggings,COD
+Order ID,14,-1,4,Clothing,Kurti,COD
+Order ID,13,-8,1,Clothing,T-shirt,COD
+Order ID,13,-1,3,Clothing,Hankerchief,COD
+Order ID,1275,1148,7,Furniture,Bookcases,EMI
+Order ID,17,1,2,Clothing,Skirt,Credit Card
+Order ID,13,0,2,Clothing,Hankerchief,COD
+Order ID,1270,546,11,Electronics,Electronic Games,EMI
+Order ID,13,-2,1,Clothing,Stole,COD
+Order ID,13,3,1,Clothing,Leggings,COD
+Order ID,17,5,1,Clothing,Hankerchief,UPI
+Order ID,13,-13,2,Clothing,Skirt,COD
+Order ID,13,-9,2,Clothing,Skirt,COD
+Order ID,1263,-56,5,Clothing,Trousers,EMI
+Order ID,1629,-153,3,Electronics,Phones,COD
+Order ID,17,7,3,Clothing,Hankerchief,UPI
+Order ID,17,2,2,Clothing,Skirt,UPI
+Order ID,1250,-12,2,Electronics,Printers,EMI
+Order ID,17,-11,3,Clothing,Skirt,UPI
+Order ID,977,-244,7,Electronics,Phones,COD
+Order ID,1246,62,3,Furniture,Bookcases,EMI
+Order ID,12,1,2,Clothing,Hankerchief,COD
+Order ID,11,-4,2,Clothing,Skirt,COD
+Order ID,1327,318,8,Furniture,Chairs,EMI
+Order ID,1319,567,5,Electronics,Printers,COD
+Order ID,1402,109,11,Clothing,Saree,EMI
+Order ID,1514,742,4,Electronics,Printers,EMI
+Order ID,1351,111,6,Electronics,Electronic Games,COD
+Order ID,1355,-60,5,Clothing,Trousers,COD
+Order ID,10,2,2,Clothing,Hankerchief,COD
+Order ID,10,-2,2,Clothing,Leggings,COD
+Order ID,1582,-443,6,Clothing,Trousers,EMI
+Order ID,1218,352,9,Furniture,Bookcases,EMI
+Order ID,321,315,5,Clothing,Saree,UPI
+Order ID,736,346,5,Electronics,Printers,COD
+Order ID,1218,-420,8,Furniture,Bookcases,COD
+Order ID,1027,441,8,Clothing,Saree,COD
+Order ID,10,5,1,Clothing,Stole,COD
+Order ID,2366,552,5,Clothing,Trousers,UPI
+Order ID,9,-6,2,Clothing,Hankerchief,COD
+Order ID,16,-12,2,Clothing,Stole,UPI
+Order ID,9,3,1,Clothing,Skirt,COD
+Order ID,1560,421,3,Clothing,Trousers,COD
+Order ID,1137,568,2,Clothing,Trousers,EMI
+Order ID,9,-9,2,Clothing,Kurti,COD
+Order ID,15,-7,1,Clothing,Hankerchief,UPI
+Order ID,14,5,1,Clothing,Hankerchief,UPI
+Order ID,14,7,2,Clothing,Hankerchief,UPI
+Order ID,8,-2,2,Clothing,Hankerchief,COD
+Order ID,1389,680,7,Clothing,Saree,COD
+Order ID,8,-1,2,Clothing,Leggings,COD
+Order ID,8,-2,1,Clothing,Stole,COD
+Order ID,13,4,1,Clothing,Leggings,UPI
+Order ID,8,-6,1,Clothing,Stole,COD
+Order ID,12,2,2,Clothing,Skirt,Credit Card
+Order ID,1716,309,7,Electronics,Accessories,COD
+Order ID,1117,447,10,Furniture,Bookcases,EMI
+Order ID,9,-6,2,Clothing,Skirt,Credit Card
+Order ID,332,503,3,Electronics,Printers,COD
+Order ID,7,-4,3,Clothing,Hankerchief,COD
+Order ID,8,-2,3,Clothing,Hankerchief,Credit Card
+Order ID,2061,701,5,Furniture,Bookcases,UPI
+Order ID,1103,276,3,Furniture,Chairs,EMI
+Order ID,2103,322,8,Electronics,Electronic Games,UPI
+Order ID,2115,23,5,Furniture,Chairs,COD
+Order ID,850,-289,5,Electronics,Electronic Games,COD
+Order ID,1063,64,7,Electronics,Phones,EMI
+Order ID,1063,-175,4,Electronics,Electronic Games,EMI
+Order ID,2292,127,7,Furniture,Bookcases,COD
+Order ID,7,-1,2,Clothing,Hankerchief,Credit Card
+Order ID,2452,191,7,Furniture,Bookcases,UPI
+Order ID,2457,665,11,Electronics,Electronic Games,EMI
+Order ID,4,-3,1,Clothing,Skirt,Credit Card
+Order ID,2830,-1981,13,Furniture,Bookcases,EMI
+Order ID,7,1,1,Clothing,Hankerchief,COD
+Order ID,7,0,2,Clothing,Skirt,COD
+Order ID,7,-3,2,Clothing,Hankerchief,COD
+Order ID,3151,-35,7,Clothing,Trousers,EMI
+Order ID,4141,1698,13,Electronics,Printers,COD
+Order ID,7,-2,1,Clothing,Hankerchief,COD
+Order ID,4363,305,5,Furniture,Tables,EMI
